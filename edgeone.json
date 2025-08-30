@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+      {
+        "source": "/qiang_dictionary/*",
+        "destination": "/:splat"
+      }
+    ]
+}
